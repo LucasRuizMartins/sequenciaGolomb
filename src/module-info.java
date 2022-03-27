@@ -1,0 +1,2 @@
+module Golomb {
+}
